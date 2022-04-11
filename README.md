@@ -33,7 +33,7 @@
 
 本最佳实践主要以供货商为主线，根据供货商的不同情况对流程进行一定调整。
 
-本最佳实践没有较多关于冷链、生鲜的配送经验，如果需要欢迎通过 GitHub 参与编辑。
+本最佳实践没有较多关于冷链、生鲜的配送经验，如果需要欢迎通过 GitHub 参与编辑。
 
 如果您不在 GitHub 阅读此文，可能不一定是最新版本，欢迎移步至：[GitHub - CyrusF/omicron-regiment-commander-best-practice](https://github.com/CyrusF/omicron-regiment-commander-best-practice) .
 
