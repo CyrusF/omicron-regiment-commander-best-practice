@@ -22,7 +22,7 @@
 
 ### 高阶
 
-* 熟悉 VBS(for excep) 或 Python / Go 等分析工具
+* 熟悉 VBS(for Excel) 或 Python / Go 等分析工具
   
 * 有正则表达式、数据统计能力
   
